@@ -102,6 +102,7 @@ select {
 
 input[type=number]{
   width:4em;
+   height: 1.75em;
 }
 
 input[name=title] {
