@@ -92,7 +92,7 @@ table tbody td {
 input[type=text],
 input[type=date],
 input[type=time],
-input[type=number],
+input[type=number]{width:5em;}
 input[type=color] {
   height: 1.75em;
 }
