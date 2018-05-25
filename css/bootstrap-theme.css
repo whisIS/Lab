@@ -59,6 +59,7 @@ footer hr {
    margin-bottom: 0;   
 }
 
+<<<<<<< HEAD
 #postJumbo {
    background-image: url(../images/post-background.jpg);
 }
@@ -83,4 +84,8 @@ footer hr {
 }
 .ratings img {
     vertical-align: top;
+=======
+.countryButtons  {
+    margin-bottom: 10px;
+>>>>>>> Lab09
 }
